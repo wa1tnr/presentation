@@ -277,3 +277,4 @@ ODDS and ENDS
      bash $ head -1 ~/.bash_history     # does pretty much the same thing
 
 
+EOF
