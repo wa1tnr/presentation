@@ -213,6 +213,7 @@ The following topics are addressed:
 
   The current screen geometry is reported in dmesg:
 
+(TODO: text block is missing, here - Dec 10, 2017)
 
 Install the fbset binary from Debian package repository
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
